@@ -1,2 +1,0 @@
-PHP_FLAG register_globals ON
-PHP_VALUE mysql.default_charset UTF8
