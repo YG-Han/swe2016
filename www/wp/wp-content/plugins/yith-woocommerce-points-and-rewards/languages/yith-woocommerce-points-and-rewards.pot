@@ -1,0 +1,350 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Points and Rewards\n"
+"POT-Creation-Date: 2016-06-10 16:28+0200\n"
+"PO-Revision-Date: 2015-07-30 14:48+0100\n"
+"Last-Translator: \n"
+"Language-Team: Yithemes <plugins@yithemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: ../includes/admin/yith-wc-points-rewards-customers-view.php:22
+msgid "ID"
+msgstr ""
+
+#: ../includes/admin/yith-wc-points-rewards-customers-view.php:23
+msgid "User"
+msgstr ""
+
+#: ../includes/admin/yith-wc-points-rewards-customers-view.php:24
+msgid "Subtotal"
+msgstr ""
+
+#: ../includes/admin/yith-wc-points-rewards-customers-view.php:25
+msgid "Action"
+msgstr ""
+
+#: ../includes/admin/yith-wc-points-rewards-customers-view.php:112
+#: ../templates/admin/customers-tab.php:15
+msgid "Update Points"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:145
+#: ../includes/class.yith-wc-points-rewards-admin.php:270
+msgid "Settings"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:146
+#: ../templates/admin/customers-tab.php:2
+msgid "Customer Points"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:150
+#: ../includes/class.yith-wc-points-rewards-admin.php:272
+msgid "Premium Version"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:157
+#: ../includes/class.yith-wc-points-rewards-admin.php:158
+msgid "Points and Rewards"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:297
+msgid "Plugin Documentation"
+msgstr ""
+
+#: ../init.php:36
+msgid ""
+"You can't activate the free version of YITH WooCommerce Points and "
+"Rewards while you are using the premium one."
+msgstr ""
+
+#: ../init.php:63 ../init.php:136
+msgid ""
+"YITH WooCommerce Points and Rewards is enabled but not effective. It "
+"requires WooCommerce in order to work."
+msgstr ""
+
+#: ../plugin-options/general-options.php:10
+msgid "General Settings"
+msgstr ""
+
+#: ../plugin-options/general-options.php:24
+msgid "Enable Points and Rewards"
+msgstr ""
+
+#: ../plugin-options/general-options.php:32
+msgid "Conversion Rate for Points earned"
+msgstr ""
+
+#: ../templates/admin/customers-tab.php:10
+#, php-format
+msgid "User #%d: %s"
+msgstr ""
+
+#: ../templates/admin/customers-tab.php:17
+msgid "Back to list"
+msgstr ""
+
+#: ../templates/admin/premium.php:244 ../templates/admin/premium.php:501
+#, php-format
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Points and "
+"Rewards%2$s to benefit from all features!"
+msgstr ""
+
+#: ../templates/admin/premium.php:247 ../templates/admin/premium.php:504
+msgid "UPGRADE"
+msgstr ""
+
+#: ../templates/admin/premium.php:248 ../templates/admin/premium.php:505
+msgid "to the premium version"
+msgstr ""
+
+#: ../templates/admin/premium.php:254
+msgid "Premium Features"
+msgstr ""
+
+#: ../templates/admin/premium.php:257 ../templates/admin/premium.php:262
+msgid "Point credit"
+msgstr ""
+
+#: ../templates/admin/premium.php:265
+#, php-format
+msgid ""
+"Reward loyal customers of your e-commerce by giving them the possibility "
+"to benefit of %1$sspecial discount%2$s thanks to the points collected "
+"with purchases.%3$sAnother reason to encourage your users to prefer your "
+"ecommerce instead of another one."
+msgstr ""
+
+#: ../templates/admin/premium.php:275 ../templates/admin/premium.php:282
+msgid "Limit for collected points"
+msgstr ""
+
+#: ../templates/admin/premium.php:278
+#, php-format
+msgid ""
+"If you risk to become a victim of your point collection system, just set "
+"a %1$smaximum limit%2$s for discounts that users can benefit from during "
+"purchase. This limit will be calculated according to the number of "
+"products in cart and you can set general values or more specific ones "
+"with details settings for category and tag."
+msgstr ""
+
+#: ../templates/admin/premium.php:289 ../templates/admin/premium.php:294
+msgid "User role"
+msgstr ""
+
+#: ../templates/admin/premium.php:297
+#, php-format
+msgid ""
+"Criteria for point assignment can vary according to plugin configuration: "
+"among the many, you can choose to assign a different value to points of "
+"your users according to the %1$sWordPress role%2$s they have in your "
+"store and accordingly also rewards will be different."
+msgstr ""
+
+#: ../templates/admin/premium.php:307
+msgid "Expiry date "
+msgstr ""
+
+#: ../templates/admin/premium.php:310
+#, php-format
+msgid ""
+"Setting an expiry date for points collected can help you %1$sincrease "
+"sales%2$s volume of your store, because this actually moves your users to "
+"keep purchasing in order not to lose collected points and the received "
+"discount."
+msgstr ""
+
+#: ../templates/admin/premium.php:314
+msgid "Expiry date"
+msgstr ""
+
+#: ../templates/admin/premium.php:321 ../templates/admin/premium.php:326
+msgid "Automatic emails"
+msgstr ""
+
+#: ../templates/admin/premium.php:329
+#, php-format
+msgid ""
+"Keep your users always updated by enabling %1$sautomatic emails%2$s for "
+"each time point credit is updated. This way they will be able to track "
+"their points and have their point credit always updated."
+msgstr ""
+
+#: ../templates/admin/premium.php:332
+#, php-format
+msgid ""
+"And that's not all. If you have set an %1$sexpiry date for points%2$s of "
+"your shop, enable also automatic emails a certain date before expiration "
+"to avoid they forget about it and lose their bonus."
+msgstr ""
+
+#: ../templates/admin/premium.php:342 ../templates/admin/premium.php:349
+msgid "Point removal"
+msgstr ""
+
+#: ../templates/admin/premium.php:345
+#, php-format
+msgid ""
+"Sometimes it happens that you have to %1$scancel%2$s or %1$srefund%2$s an "
+"order, one that maybe has already credited points to the user. In case "
+"you want remove these points from total credit, you'll just have to "
+"enable the option and the system will automatically update information "
+"concerned."
+msgstr ""
+
+#: ../templates/admin/premium.php:356 ../templates/admin/premium.php:361
+msgid "Extra points"
+msgstr ""
+
+#: ../templates/admin/premium.php:364
+#, php-format
+msgid ""
+"Beyond usual points credited at each purchase, %1$sthe plugin allows you "
+"to gift extra points%2$s when certain conditions occur: either after "
+"registration in the shop or to thank them for reviewing one product, when "
+"a certain spend threshold has been reached or a certain number of points "
+"or orders is collected."
+msgstr ""
+
+#: ../templates/admin/premium.php:374
+msgid "Label customisation"
+msgstr ""
+
+#: ../templates/admin/premium.php:377
+#, php-format
+msgid ""
+"All labels displayed to users can be %1$scustomised%2$s from plugin "
+"settings panel. In few and quick moves you can change your texts as you "
+"prefer."
+msgstr ""
+
+#: ../templates/admin/premium.php:381
+msgid "Labels"
+msgstr ""
+
+#: ../templates/admin/premium.php:388
+msgid "Product exclusion"
+msgstr ""
+
+#: ../templates/admin/premium.php:393
+msgid "Pre-activation purchases"
+msgstr ""
+
+#: ../templates/admin/premium.php:396
+#, php-format
+msgid ""
+"The premium version of %1$sYITH WooCommerce Points and Rewards%2$s allows "
+"you to include in your point system also users who have purchased before "
+"its activation.%3$sIn this case, it will be up to you to inform them "
+"about the great news reserved to them and tell them that their point "
+"credit is already up-to-date and availble in \"My Account\" page."
+msgstr ""
+
+#: ../templates/admin/premium.php:406 ../templates/admin/premium.php:413
+msgid "User messages"
+msgstr ""
+
+#: ../templates/admin/premium.php:409
+#, php-format
+msgid ""
+"Encourage your users to purchase from your shop by showing in product "
+"detail page the %1$snumber of points%2$s due for that purchase. But "
+"that's not the only benefit: enable message displaying in cart page to "
+"inform users both about points due for that purchase and the possible "
+"%1$sdiscount%2$s they can benefit with points collected sofar."
+msgstr ""
+
+#: ../templates/admin/premium.php:420 ../templates/admin/premium.php:425
+msgid "\"My Account\" summary"
+msgstr ""
+
+#: ../templates/admin/premium.php:428
+#, php-format
+msgid ""
+"Any user of your shop must be able to see their own point credit any time "
+"they want. This is the reason why the plugin adds a dedicated section "
+"into %1$s\"My account\"%2$s page where users can see the total credit "
+"available and all actions that have given them points."
+msgstr ""
+
+#: ../templates/admin/premium.php:438
+msgid "Widgets"
+msgstr ""
+
+#: ../templates/admin/premium.php:441
+#, php-format
+msgid ""
+"2 widgets of different type. The first one only for the admin, who will "
+"be able to display immediately users that %1$shave collected more points"
+"%2$s in the shop, and the second one for your e-commerce shop to show "
+"logged-in users their %1$scurrent point credit%2$s."
+msgstr ""
+
+#: ../templates/admin/premium.php:445
+msgid "Bulk actions"
+msgstr ""
+
+#: ../templates/admin/premium.php:452 ../templates/admin/premium.php:457
+msgid "Points history"
+msgstr ""
+
+#: ../templates/admin/premium.php:460
+#, php-format
+msgid ""
+"Thanks to %1$sPoint List%2$s shortcode, your users can consult their "
+"points history at any time and check action details of orders in the shop."
+msgstr ""
+
+#: ../templates/admin/premium.php:470 ../templates/admin/premium.php:477
+msgid "Fixed or percentage discount"
+msgstr ""
+
+#: ../templates/admin/premium.php:473
+#, php-format
+msgid ""
+"Choose the discount typology to apply when %1$susers redeem their points"
+"%2$s, from fixed or percentage, in relation to the price of products in "
+"chart"
+msgstr ""
+
+#: ../templates/admin/premium.php:484 ../templates/admin/premium.php:489
+msgid "Minimum amount of discount"
+msgstr ""
+
+#: ../templates/admin/premium.php:492
+#, php-format
+msgid ""
+"Thanks to \"Minimum Discount Required to redeem2, you could set a "
+"%1$sminimum amount of discount%2$s under which users could not redeem "
+"their points"
+msgstr ""
+
+#: ../templates/myaccount/my-points-view.php:19
+msgid "My Points"
+msgstr ""
+
+#: ../templates/myaccount/my-points-view.php:21
+#, php-format
+msgid "You have <strong>%s point</strong>"
+msgid_plural "You have <strong>%s points</strong>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../templates/panel/types/options-conversion.php:31
+msgid "Points"
+msgstr ""
